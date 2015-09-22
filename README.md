@@ -5,7 +5,7 @@ These are Java and Python example codes used to show HOWTO of programming models
 
 
 
-＞There're five examples below and the main purpose is to get you hands-on experience running MapReduce and gain a deeper ＞understanding of the MapReduce paradigm, become more familiar with Apache Spark and get hands on experience with running Spark ＞on a local installation.
+>There're five examples below and the main purpose is to get you hands-on experience running MapReduce and gain a deeper >understanding of the MapReduce paradigm, become more familiar with Apache Spark and get hands on experience with running Spark >on a local installation.
 
 
 * Ex1 – Generating the dataset 
