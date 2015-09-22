@@ -12,7 +12,7 @@ There're five examples below and the main purpose is to get you hands-on experie
 * **Ex4 – Working with Spark**
 * **Ex5 - Full Text Index Creation**
 
-#### For more info, pls refer to my [blog](http://paulyang0125.blogspot.co.uk/2015/09/part-3-programming-hadoop-mapreduce-in.html)
+>For more info, pls refer to [my blog - Part 3 Programming hadoop MapReduce in Java and Spark in Python](http://paulyang0125.blogspot.co.uk/2015/09/part-3-programming-hadoop-mapreduce-in.html)
 
 
 
